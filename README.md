@@ -16,3 +16,4 @@ Tkinter
 
 ### Final Result:
 <img src="/result1.png">
+(clicking button, results in redirecting to an another window)
