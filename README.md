@@ -1,4 +1,4 @@
-## basic_all_in_one_detection--faceonly--
+## All Face related detections
 
 ### Aim: 
 To club all the face related detections under one Hood. (OR) Creating a UI which opens the respective precreated .py files
