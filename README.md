@@ -15,4 +15,4 @@ Tkinter
 6) DONE!
 
 ### Final Result:
-<img src="\result.png">
+<img src="/result1.png">
